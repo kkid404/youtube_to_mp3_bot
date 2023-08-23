@@ -9,6 +9,7 @@ charset-normalizer==3.2.0
 colorama==0.4.6
 decorator==4.4.2
 frozenlist==1.4.0
+greenlet==2.0.2
 idna==3.4
 imageio==2.31.1
 imageio-ffmpeg==0.4.8
@@ -18,11 +19,14 @@ multidict==6.0.4
 numpy==1.25.2
 Pillow==10.0.0
 proglog==0.1.10
+psycopg2==2.9.7
 pydub==0.25.1
 python-dotenv==1.0.0
 pytube==15.0.0
 pytz==2023.3
 requests==2.31.0
+SQLAlchemy==2.0.20
 tqdm==4.66.1
+typing_extensions==4.7.1
 urllib3==2.0.4
 yarl==1.9.2
